@@ -1,6 +1,7 @@
 # UH_JHU_neonate_multimodality_multiatlas
 
-Neonatal brain MRI atlas repository containing T1-weighted, T2-weighted, and diffusion tensor imaging (DTI) data from 7 infants, with anatomical parcellation maps derived from T1- and T2-weighted images. The dataset supports neonatal brain segmentation and multi-atlas label fusion (MALF). 
+Neonatal brain MRI atlas repository containing T1-weighted, T2-weighted, and diffusion tensor imaging (DTI) data from 7 infants, with anatomical parcellation maps derived from T1- and T2-weighted images. The dataset supports neonatal brain segmentation and multi-atlas label fusion (MALF). Although a DTI-based parcellation maps are not currently available, we have developed a deep learning model (OpenMAP-Di) that enables automated parcellation of DTI into 168 anatomical regions. For more information, please visit the link below.
+[Link](https://github.com/OishiLab/OpenMAP-Di)
 
 **Developer**: [Kenichi Oishi](https://www.hopkinsmedicine.org/profiles/details/kenichi-oishi) MD, PhD<br>
 The Russell H. Morgan Department of Radiology and Radiological Science, The Johns Hopkins University School of Medicine, Baltimore, MD, USA <br>
