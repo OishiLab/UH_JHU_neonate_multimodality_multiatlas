@@ -1,0 +1,7 @@
+UH-JHU-neonate multimodality multiatlas by Dr. Kenichi Oishi (PI of the R01HD065955: Johns Hopkins University) and Dr. Linda Chang (Subcontract PI of the R01HD065955: University of Hawaii; University of Maryland).
+This work was supported by grants from the National Institutes of Health (R01HD065955, R01MH092535 and P41EB015909) and from the Department of Radiology Johns Hopkins University School of Medicine (the Fakhri Rad BriteStar award)
+
+
+reference for the UH-JHU-neonate multimodality multiatlas
+
+Otsuka Y, Chang L, Kawasaki Y, Wu D, Ceritoglu C, Oishi K, Ernst T, Miller M, Mori S, Oishi K. A Multi-Atlas Label Fusion Tool for Neonatal Brain MRI Parcellation and Quantification. J Neuroimaging. 2019 Jul;29(4):431-439. doi: 10.1111/jon.12623. Epub 2019 Apr 29. PMID: 31037800; PMCID: PMC6609486.

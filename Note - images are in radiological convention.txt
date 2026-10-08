@@ -1,0 +1,4 @@
+Note: images are in "radiological convention"
+The right side of the image is the left side of the head.
+Atlases are in Analyze form without Left/right information in the header. 
+Therefore, if "neurological convention" image viewers (e.g., SPM, MRICron, etc.) are used, the left-right orientation need to be taken care of. For example, the atlases are visualized as "radiological convention" if Mricron is used for the visualization, even though the Mricron use "neurological convention."   
